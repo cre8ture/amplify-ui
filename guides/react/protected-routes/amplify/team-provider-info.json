@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-protectedroutes-dev-135508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::716560363871:role/amplify-protectedroutes-dev-135508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::716560363871:role/amplify-protectedroutes-dev-135508-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-protectedroutes-dev-135508-deployment",
+      "UnauthRoleName": "amplify-protectedroutes-dev-135508-unauthRole",
+      "StackName": "amplify-protectedroutes-dev-135508",
+      "StackId": "arn:aws:cloudformation:us-east-1:716560363871:stack/amplify-protectedroutes-dev-135508/470e0ad0-a8ab-11ed-aed5-0e7349a98a8b",
+      "AmplifyAppId": "d25qgop8tb2mf7"
+    },
+    "categories": {
+      "auth": {
+        "protectedroutesbc354dae": {}
+      }
+    }
+  }
+}
